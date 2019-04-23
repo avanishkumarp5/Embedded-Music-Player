@@ -711,18 +711,18 @@ int main(void) {
 
 /*** EOF ***/
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
+  //  © 2019 GitHub, Inc.
+  //  Terms
+  // Privacy
+  //  Security
+ //   Status
+  //  Help
 
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
+  //  Contact GitHub
+ //   Pricing
+ //   API
+//    Training
+  //  Blog
+  //  About
 
 */*/
